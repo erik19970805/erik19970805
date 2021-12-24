@@ -1,3 +1,3 @@
 # Acerca de mi
 
-Desarrollador web backend y frontend (experiencia autónoma de 2 años) con la capacidad para crear APIs RestFull, aplicaciones web responsivas. Conocimientos en tecnologías como Node.js, JavaScript, TypeScript, Express, MongoDB, Postgress, React, Redux, Css con Sass, Manejo de Flex y Grid. Pienso que la experimentación y el aprendizaje continuo es fundamental en el crecimiento profesional y laboral
+Desarrollador web backend y frontend (experiencia autónoma de 1 año y medio) con la capacidad de crear APIs RestFull, aplicaciones web responsivas, que disfruta experimentar, aprender y fomentar un crecimiento continuo en mis actitudes con aspiraciones de llegar a ser un excelente profesional, capas de satisfacer las necesidades de una empresa.
