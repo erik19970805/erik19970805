@@ -25,18 +25,18 @@ Fecha finalización: marzo de 2022
 
 **Otros conocimientos**
 * Git
-* Conocimientos de la metodologia agil SCRUM
-* Utilizacion de Eslint, prettier y husky para en control de codigo fuente.
+* Conocimientos de la metodología ágil SCRUM
+* Utilización de Eslint, prettier y husky para en control de código fuente.
 
 # Experiencia
 
-**Pasantias**
+**Pasantías**
 
-Cotizador de vehiculos | 2021
-* Evaluación, solución y mantenimiento de componentes realizados con React para una concecionaria de vehiculos
+Cotizador de vehículos | 2021
+* Evaluación, solución y mantenimiento de componentes realizados con React para una concesionaria de vehículos
 
 **Proyecto de Tesis**
 
-Aplicacion web de cursos online | 2021 - 2022
+Aplicación web de cursos online | 2021 - 2022
  * Diseño, desarrollo del software
  * Puesta en marcha y subida a producción
