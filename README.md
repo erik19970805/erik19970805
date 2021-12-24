@@ -27,3 +27,16 @@ Otros conocimientos
 * Git
 * Conocimientos de la metodologia agil SCRUM
 * Utilizacion de Eslint, prettier y husky para en control de codigo fuente.
+
+# Experiencia
+
+Pasantias
+
+Cotizador de vehiculos | 2021
+* Evaluación, solución y mantenimiento de componentes realizados con React para una concecionaria de vehiculos
+
+Proyecto de Tesis
+
+Aplicacion web de cursos online | 2021 - 2022
+ * Diseño, desarrollo del software
+ * Puesta en marcha y subida a producción
