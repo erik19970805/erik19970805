@@ -4,7 +4,7 @@ Desarrollador web backend y frontend (experiencia autónoma de 1 año y medio) c
 
 # Educación
 
-Universidad Técnica del Norte
+Universidad Técnica del Norte \n
 Ingeniería en sistemas Computacionales,
 Fecha inicio: octubre de 2016
 Fecha finalización: marzo de 2022
