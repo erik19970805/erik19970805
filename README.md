@@ -22,6 +22,9 @@ Fecha finalización: Julio 2022 (en esperas de revición de tesis)
 * Express
 * MongoDB
 * PostgresQL
+* Grapqhl
+* Apollo server
+* Prisma
 
 **Otros conocimientos**
 * Git
