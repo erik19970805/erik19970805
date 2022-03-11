@@ -7,7 +7,7 @@ Desarrollador web backend y frontend con la capacidad de crear APIs RestFull, ap
 Universidad Técnica del Norte <br/>
 Ingeniería en sistemas Computacionales <br/>
 Fecha inicio: abril de 2017 <br/>
-Fecha finalización: cursando
+Fecha finalización: Julio 2022 (en esperas de revición de tesis)
 
 # Habilidades
 
