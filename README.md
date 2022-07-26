@@ -16,6 +16,7 @@ Fecha finalización: Septiembre 2022
  * Redux
  * Css con Sass, flex y grid.
  * TailwindCss
+ * Socket.io
 
 **Backend**
 * JavaScript, TypeScript
