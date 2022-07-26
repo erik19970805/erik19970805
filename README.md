@@ -29,6 +29,7 @@ Fecha finalización: Septiembre 2022
 * Java
 * Sprint Boot
 * Docker
+* Socket.io
 
 **Otros conocimientos**
 * Git
