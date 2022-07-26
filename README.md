@@ -15,6 +15,7 @@ Fecha finalización: Septiembre 2022
  * React
  * Redux
  * Css con Sass, flex y grid.
+ * TailwindCss
 
 **Backend**
 * JavaScript, TypeScript
@@ -25,11 +26,15 @@ Fecha finalización: Septiembre 2022
 * Grapqhl
 * Apollo server
 * Prisma
+* Java
+* Sprint Boot
+* Docker
 
 **Otros conocimientos**
 * Git
 * Conocimientos de la metodología ágil SCRUM
 * Utilización de Eslint, prettier y husky para en control de código fuente.
+* CI/CD con GitHub Actions
 
 # Experiencia
 
